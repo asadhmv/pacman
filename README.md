@@ -4,6 +4,10 @@
 Pacman afin qu’il atteigne l’objectif qui est la nourriture. Ensuite nous devrons comparer les résultats 
 des deux algorithmes, ainsi trouver quel sera le meilleur pour le jeu.**
 
+
+![image](https://github.com/asadhmv/pacman/assets/115191661/2aa0aec3-807d-48da-aab3-b812d6030349)
+
+
 1. Depth First Search
 
 L'algorithme commence par initialiser une pile avec l'état initial du problème et une liste vide 
